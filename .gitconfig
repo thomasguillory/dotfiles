@@ -1,0 +1,5 @@
+[user]
+	email = thomas.guillory@dashlane.com
+	name = Thomas Guillory
+[push]
+	default = simple
